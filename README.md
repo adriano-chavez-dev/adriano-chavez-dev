@@ -1,42 +1,31 @@
-# Hola, soy Adriano
+# 👋 Hola, soy Adriano
 
 Técnico en Computación e Informática interesado en el desarrollo de software y la ciberseguridad.
 
 Actualmente estoy desarrollando proyectos con Java, Spring Boot, Angular, Kotlin y C#.
 
-Tecnologías
+## 🛠️ Tecnologías
 
-* Java | Spring Boot
+- ☕ Java | Spring Boot
+- 💠 C# | ASP.NET Core
+- 📱 Kotlin | Android
+- 🌐 Angular | TypeScript
+- 🐍 Python | En aprendizaje
+- 🗄️ MySQL | SQL Server
+- 🐳 Docker | Git
 
-* C# | ASP.NET Core
+## 🎯 Áreas de interés
 
-* Kotlin | Android
+- ⚙️ Desarrollo Backend
+- 🧩 Arquitectura de Microservicios
+- 🔐 Ciberseguridad
+- 📱 Desarrollo Móvil
 
-* Angular | TypeScript
+## 📚 Actualmente aprendiendo
 
-* Python | En aprendizaje
-
-* MySQL | SQL Server
-
-* Docker | Git
-
-# Áreas de interés
-
-*   Desarrollo Backend
-
-*   Arquitectura de Microservicios
-
-*   Ciberseguridad
-
-*   Desarrollo Móvil
-
-# Actualmente aprendiendo
-
-*   Python aplicado a ciberseguridad
-
-*   Linux y herramientas de seguridad
-
-*   Buenas prácticas de arquitectura y desarrollo seguro
+- 🐍 Python aplicado a ciberseguridad
+- 🐧 Linux y herramientas de seguridad
+- 🛡️ Buenas prácticas de arquitectura y desarrollo seguro
 
 # Contacto
 
